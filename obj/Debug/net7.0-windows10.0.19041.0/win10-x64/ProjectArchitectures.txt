@@ -1,0 +1,1 @@
+D:\Galus\DrawSystem\DrawSystem.csproj;x64

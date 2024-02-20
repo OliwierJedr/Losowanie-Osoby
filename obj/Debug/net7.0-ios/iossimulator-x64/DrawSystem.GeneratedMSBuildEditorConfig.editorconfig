@@ -1,0 +1,71 @@
+is_global = true
+build_property.TargetFramework = net7.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DrawSystem
+build_property.ProjectDir = D:\Galus\DrawSystem\
+
+[D:/Galus/DrawSystem/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DrawSystem.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[D:/Galus/DrawSystem/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DrawSystem.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[D:/Galus/DrawSystem/Controls/ClassControl.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DrawSystem.Controls.ClassControl.xaml
+build_metadata.AdditionalFiles.TargetPath = Controls\ClassControl.xaml
+build_metadata.AdditionalFiles.RelativePath = Controls\ClassControl.xaml
+
+[D:/Galus/DrawSystem/Controls/StudentControl.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DrawSystem.Controls.StudentControl.xaml
+build_metadata.AdditionalFiles.TargetPath = Controls\StudentControl.xaml
+build_metadata.AdditionalFiles.RelativePath = Controls\StudentControl.xaml
+
+[D:/Galus/DrawSystem/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DrawSystem.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[D:/Galus/DrawSystem/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DrawSystem.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[D:/Galus/DrawSystem/Views/ClassPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DrawSystem.Views.ClassPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ClassPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ClassPage.xaml
+
+[D:/Galus/DrawSystem/Views/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DrawSystem.Views.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\MainPage.xaml
+
+[D:/Galus/DrawSystem/Views/StudentPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = DrawSystem.Views.StudentPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\StudentPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\StudentPage.xaml
+
+[D:/Galus/DrawSystem/Resources/Styles.css]
+build_metadata.AdditionalFiles.GenKind = Css
+build_metadata.AdditionalFiles.ManifestResourceName = DrawSystem.Resources.Styles.css
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles.css
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles.css
